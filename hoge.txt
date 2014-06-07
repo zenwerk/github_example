@@ -1,2 +1,5 @@
 initial message
 git flow init
+message before rebase 1
+message before rebase 2
+message before rebase 3
