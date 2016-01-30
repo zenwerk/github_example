@@ -1,0 +1,3 @@
+modified in branch feature-a
+----
+リネームされた feature-b での変更！
